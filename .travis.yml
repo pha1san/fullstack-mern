@@ -1,8 +1,7 @@
 language: node_js
 node_js:
-- '12.16'
+- '12'
 deploy:
   provider: heroku
-  api_key:
-    secure: SplgM0azwRvmwJW1RqczWN20DJYpH/HO+tZcuKmR/6kMpb+gDtb0hCPbPqWk+TDEC93x4BbOv7LpNBrhpwL21vshIryVZNPJD1yGq88K4bYfhut1X5mE5R8eTN0i/ub6OWju3o3V+oy1beZvrM+SbrE30eFG7/gMHz3hK6EVsUhgcewCqywY2YX5T8TLr5lndeABoR2WCFZFRL6/Do9M3Tlz8K4bGMIdQV2hW1yuJAMr7MVAkfptxttKOqsSXrW8g/JWM+NIz3CQmzgd1lnDUNWWZqh7GRk+oGyPu2d18t04fyCb/lNU+aHHlCPje7hpnAaV0x4dPF5ZoaNpGFc0GUM8aXH2t0rnEpQ0C9/eiU9h7h8SOwoPKSGjYcuThegh3zxHP1Roup4x17V/2RYHPA32p9NxFu+ztEzLivcVoEh9giQl2br5xxMXQLGPiBvI7uQx0/Tw5j8hdnP22zz+CTqUeylgAGpN5sVH0K7CKBjBRRTcbd/6tKHVRg74C9TbxO2G9viYiST3By5h2LcpyAV0bdZzzfhiROp6Hc/JBWEmICX/v8IVyh0xrx6K0NCptcjNWW6Fr3ufMSQ8/j04v8LR8KOPinGw39JbuRHPhAY/O53c4tjnnWBebu6BjAMs+ZYWenZjU/q3nIQVFnAXVK5yPKkZwXwkOrOfiaukkH8=
+  api_key: 23ead3bc-11c0-4f7d-ad24-a0b27fef927e
   app: boiling-hamlet-45973
