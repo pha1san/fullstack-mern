@@ -2,6 +2,7 @@ language: node_js
 node_js:
 - '12'
 deploy:
+  skip_cleanup: true
   provider: heroku
   api_key: 23ead3bc-11c0-4f7d-ad24-a0b27fef927e
   app: boiling-hamlet-45973
